@@ -1,1 +1,1 @@
-# aws-multitier-app
+# multi-tier-aws-app
